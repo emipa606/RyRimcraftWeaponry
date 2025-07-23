@@ -2,5 +2,14 @@
   "Continued": true,
   "CanAdd": "0",
   "CanRemove": "0",
-  "PreviewVersion": "1.5"
+  "PreviewVersion": "1.6",
+  "Patches": true,
+  "Defs": true,
+  "Assemblies": false,
+  "LinesOfCode": 0,
+  "LinesOfXML": 118876,
+  "CodeBaseSize": 80,
+  "LastXmlCleaning": "2025-07-23T22:20:17.7142488+02:00",
+  "SocialImageSet": true,
+  "SearchTags": " warcraft-inspired."
 }

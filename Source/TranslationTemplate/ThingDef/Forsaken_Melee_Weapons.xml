@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: forsaken blade -->
+  <WoWM_Forsaken_Blade.label>forsaken blade</WoWM_Forsaken_Blade.label>
+  <!-- EN: Forsaken blade -->
+  <WoWM_Forsaken_Blade.description>Forsaken blade</WoWM_Forsaken_Blade.description>
+  <!-- EN: point -->
+  <WoWM_Forsaken_Blade.tools.point.label>point</WoWM_Forsaken_Blade.tools.point.label>
+  <!-- EN: edge -->
+  <WoWM_Forsaken_Blade.tools.edge.label>edge</WoWM_Forsaken_Blade.tools.edge.label>
+  <!-- EN: forsaken cleaver -->
+  <WoWM_Forsaken_Cleaver.label>forsaken cleaver</WoWM_Forsaken_Cleaver.label>
+  <!-- EN: Forsaken Cleaver -->
+  <WoWM_Forsaken_Cleaver.description>Forsaken Cleaver</WoWM_Forsaken_Cleaver.description>
+  <!-- EN: edge -->
+  <WoWM_Forsaken_Cleaver.tools.edge.label>edge</WoWM_Forsaken_Cleaver.tools.edge.label>
+  <!-- EN: forsaken crescent blade -->
+  <WoWM_Forsaken_CrescentBlade.label>forsaken crescent blade</WoWM_Forsaken_CrescentBlade.label>
+  <!-- EN: Forsaken crescent blade -->
+  <WoWM_Forsaken_CrescentBlade.description>Forsaken crescent blade</WoWM_Forsaken_CrescentBlade.description>
+  <!-- EN: edge -->
+  <WoWM_Forsaken_CrescentBlade.tools.edge.label>edge</WoWM_Forsaken_CrescentBlade.tools.edge.label>
+  <!-- EN: forsaken dirk -->
+  <WoWM_Forsaken_Dirk.label>forsaken dirk</WoWM_Forsaken_Dirk.label>
+  <!-- EN: Forsaken Dirk -->
+  <WoWM_Forsaken_Dirk.description>Forsaken Dirk</WoWM_Forsaken_Dirk.description>
+  <!-- EN: blade -->
+  <WoWM_Forsaken_Dirk.tools.blade.label>blade</WoWM_Forsaken_Dirk.tools.blade.label>
+  <!-- EN: point -->
+  <WoWM_Forsaken_Dirk.tools.point.label>point</WoWM_Forsaken_Dirk.tools.point.label>
+  <!-- EN: forsaken greatsword -->
+  <WoWM_Forsaken_Greatsword.label>forsaken greatsword</WoWM_Forsaken_Greatsword.label>
+  <!-- EN: Forsaken greatsword -->
+  <WoWM_Forsaken_Greatsword.description>Forsaken greatsword</WoWM_Forsaken_Greatsword.description>
+  <!-- EN: point -->
+  <WoWM_Forsaken_Greatsword.tools.point.label>point</WoWM_Forsaken_Greatsword.tools.point.label>
+  <!-- EN: edge -->
+  <WoWM_Forsaken_Greatsword.tools.edge.label>edge</WoWM_Forsaken_Greatsword.tools.edge.label>
+  <!-- EN: forsaken halberd -->
+  <WoWM_Forsaken_Halberd.label>forsaken halberd</WoWM_Forsaken_Halberd.label>
+  <!-- EN: Forsaken halberd -->
+  <WoWM_Forsaken_Halberd.description>Forsaken halberd</WoWM_Forsaken_Halberd.description>
+  <!-- EN: point -->
+  <WoWM_Forsaken_Halberd.tools.point.label>point</WoWM_Forsaken_Halberd.tools.point.label>
+  <!-- EN: blade -->
+  <WoWM_Forsaken_Halberd.tools.blade.label>blade</WoWM_Forsaken_Halberd.tools.blade.label>
+</LanguageData>

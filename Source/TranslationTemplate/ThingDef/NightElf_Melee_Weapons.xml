@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: kaldorei halberd -->
+  <WoWM_NightElf_Halberd.label>kaldorei halberd</WoWM_NightElf_Halberd.label>
+  <!-- EN: Kaldorei halberd -->
+  <WoWM_NightElf_Halberd.description>Kaldorei halberd</WoWM_NightElf_Halberd.description>
+  <!-- EN: point -->
+  <WoWM_NightElf_Halberd.tools.point.label>point</WoWM_NightElf_Halberd.tools.point.label>
+  <!-- EN: edge -->
+  <WoWM_NightElf_Halberd.tools.edge.label>edge</WoWM_NightElf_Halberd.tools.edge.label>
+  <!-- EN: kaldorei mooncleaver -->
+  <WoWM_NightElf_Mooncleaver.label>kaldorei mooncleaver</WoWM_NightElf_Mooncleaver.label>
+  <!-- EN: Kaldorei mooncleaver -->
+  <WoWM_NightElf_Mooncleaver.description>Kaldorei mooncleaver</WoWM_NightElf_Mooncleaver.description>
+  <!-- EN: edge -->
+  <WoWM_NightElf_Mooncleaver.tools.edge.label>edge</WoWM_NightElf_Mooncleaver.tools.edge.label>
+  <!-- EN: kaldorei moonglaive -->
+  <WoWM_NightElf_Moonglaive.label>kaldorei moonglaive</WoWM_NightElf_Moonglaive.label>
+  <!-- EN: Kaldorei moonglaive -->
+  <WoWM_NightElf_Moonglaive.description>Kaldorei moonglaive</WoWM_NightElf_Moonglaive.description>
+  <!-- EN: edge -->
+  <WoWM_NightElf_Moonglaive.tools.edge.label>edge</WoWM_NightElf_Moonglaive.tools.edge.label>
+  <!-- EN: kaldorei tomahawk -->
+  <WoWM_NightElf_Tomahawk.label>kaldorei tomahawk</WoWM_NightElf_Tomahawk.label>
+  <!-- EN: Kaldorei tomahawk -->
+  <WoWM_NightElf_Tomahawk.description>Kaldorei tomahawk</WoWM_NightElf_Tomahawk.description>
+  <!-- EN: edge -->
+  <WoWM_NightElf_Tomahawk.tools.edge.label>edge</WoWM_NightElf_Tomahawk.tools.edge.label>
+</LanguageData>

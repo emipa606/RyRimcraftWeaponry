@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: sin'dorei glaive -->
+  <WoWM_Bloodelf_Glaive.label>sin'dorei glaive</WoWM_Bloodelf_Glaive.label>
+  <!-- EN: Sin'dorei glaive -->
+  <WoWM_Bloodelf_Glaive.description>Sin'dorei glaive</WoWM_Bloodelf_Glaive.description>
+  <!-- EN: point -->
+  <WoWM_Bloodelf_Glaive.tools.point.label>point</WoWM_Bloodelf_Glaive.tools.point.label>
+  <!-- EN: edge -->
+  <WoWM_Bloodelf_Glaive.tools.edge.label>edge</WoWM_Bloodelf_Glaive.tools.edge.label>
+  <!-- EN: sin'dorei greatsword -->
+  <WoWM_Bloodelf_GreatSword.label>sin'dorei greatsword</WoWM_Bloodelf_GreatSword.label>
+  <!-- EN: Sin'dorei greatsword -->
+  <WoWM_Bloodelf_GreatSword.description>Sin'dorei greatsword</WoWM_Bloodelf_GreatSword.description>
+  <!-- EN: point -->
+  <WoWM_Bloodelf_GreatSword.tools.point.label>point</WoWM_Bloodelf_GreatSword.tools.point.label>
+  <!-- EN: edge -->
+  <WoWM_Bloodelf_GreatSword.tools.edge.label>edge</WoWM_Bloodelf_GreatSword.tools.edge.label>
+  <!-- EN: sin'dorei ranseur -->
+  <WoWM_Bloodelf_Ranseur.label>sin'dorei ranseur</WoWM_Bloodelf_Ranseur.label>
+  <!-- EN: Sin'dorei Ranseur -->
+  <WoWM_Bloodelf_Ranseur.description>Sin'dorei Ranseur</WoWM_Bloodelf_Ranseur.description>
+  <!-- EN: point -->
+  <WoWM_Bloodelf_Ranseur.tools.point.label>point</WoWM_Bloodelf_Ranseur.tools.point.label>
+  <!-- EN: sin'dorei warblade -->
+  <WoWM_Bloodelf_Warblade.label>sin'dorei warblade</WoWM_Bloodelf_Warblade.label>
+  <!-- EN: Sin'dorei warblade -->
+  <WoWM_Bloodelf_Warblade.description>Sin'dorei warblade</WoWM_Bloodelf_Warblade.description>
+  <!-- EN: point -->
+  <WoWM_Bloodelf_Warblade.tools.point.label>point</WoWM_Bloodelf_Warblade.tools.point.label>
+  <!-- EN: edge -->
+  <WoWM_Bloodelf_Warblade.tools.edge.label>edge</WoWM_Bloodelf_Warblade.tools.edge.label>
+  <!-- EN: sin'dorei warmace -->
+  <WoWM_Bloodelf_Warmace.label>sin'dorei warmace</WoWM_Bloodelf_Warmace.label>
+  <!-- EN: Sin'dorei warmace -->
+  <WoWM_Bloodelf_Warmace.description>Sin'dorei warmace</WoWM_Bloodelf_Warmace.description>
+  <!-- EN: edge -->
+  <WoWM_Bloodelf_Warmace.tools.edge.label>edge</WoWM_Bloodelf_Warmace.tools.edge.label>
+</LanguageData>

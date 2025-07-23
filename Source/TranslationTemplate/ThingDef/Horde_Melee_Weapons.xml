@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: horde gladius -->
+  <WoWM_Horde_Gladius.label>horde gladius</WoWM_Horde_Gladius.label>
+  <!-- EN: Horde gladius -->
+  <WoWM_Horde_Gladius.description>Horde gladius</WoWM_Horde_Gladius.description>
+  <!-- EN: point -->
+  <WoWM_Horde_Gladius.tools.point.label>point</WoWM_Horde_Gladius.tools.point.label>
+  <!-- EN: edge -->
+  <WoWM_Horde_Gladius.tools.edge.label>edge</WoWM_Horde_Gladius.tools.edge.label>
+  <!-- EN: horde greataxe -->
+  <WoWM_Horde_Greataxe.label>horde greataxe</WoWM_Horde_Greataxe.label>
+  <!-- EN: Horde greataxe -->
+  <WoWM_Horde_Greataxe.description>Horde greataxe</WoWM_Horde_Greataxe.description>
+  <!-- EN: edge -->
+  <WoWM_Horde_Greataxe.tools.edge.label>edge</WoWM_Horde_Greataxe.tools.edge.label>
+  <!-- EN: horde greatspear -->
+  <WoWM_Horde_GreatSpear.label>horde greatspear</WoWM_Horde_GreatSpear.label>
+  <!-- EN: Horde greatspear -->
+  <WoWM_Horde_GreatSpear.description>Horde greatspear</WoWM_Horde_GreatSpear.description>
+  <!-- EN: point -->
+  <WoWM_Horde_GreatSpear.tools.point.label>point</WoWM_Horde_GreatSpear.tools.point.label>
+  <!-- EN: horde greatmaul -->
+  <WoWM_Horde_Maul.label>horde greatmaul</WoWM_Horde_Maul.label>
+  <!-- EN: Horde greatmaul -->
+  <WoWM_Horde_Maul.description>Horde greatmaul</WoWM_Horde_Maul.description>
+  <!-- EN: edge -->
+  <WoWM_Horde_Maul.tools.edge.label>edge</WoWM_Horde_Maul.tools.edge.label>
+  <!-- EN: horde warcleaver -->
+  <WoWM_Horde_WarCleaver.label>horde warcleaver</WoWM_Horde_WarCleaver.label>
+  <!-- EN: Horde warcleaver -->
+  <WoWM_Horde_WarCleaver.description>Horde warcleaver</WoWM_Horde_WarCleaver.description>
+  <!-- EN: edge -->
+  <WoWM_Horde_WarCleaver.tools.edge.label>edge</WoWM_Horde_WarCleaver.tools.edge.label>
+</LanguageData>

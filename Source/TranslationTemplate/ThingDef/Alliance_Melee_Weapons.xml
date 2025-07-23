@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: stormwind bastard sword -->
+  <WoWM_Alliance_BastardSword.label>stormwind bastard sword</WoWM_Alliance_BastardSword.label>
+  <!-- EN: Stormwind bastard sword -->
+  <WoWM_Alliance_BastardSword.description>Stormwind bastard sword</WoWM_Alliance_BastardSword.description>
+  <!-- EN: edge -->
+  <WoWM_Alliance_BastardSword.tools.edge.label>edge</WoWM_Alliance_BastardSword.tools.edge.label>
+  <!-- EN: stormwind battle hammer -->
+  <WoWM_Alliance_BattleHammer.label>stormwind battle hammer</WoWM_Alliance_BattleHammer.label>
+  <!-- EN: Stormwind battle hammer -->
+  <WoWM_Alliance_BattleHammer.description>Stormwind battle hammer</WoWM_Alliance_BattleHammer.description>
+  <!-- EN: edge -->
+  <WoWM_Alliance_BattleHammer.tools.edge.label>edge</WoWM_Alliance_BattleHammer.tools.edge.label>
+  <!-- EN: stormwind claymore -->
+  <WoWM_Alliance_Claymore.label>stormwind claymore</WoWM_Alliance_Claymore.label>
+  <!-- EN: Stormwind Claymore -->
+  <WoWM_Alliance_Claymore.description>Stormwind Claymore</WoWM_Alliance_Claymore.description>
+  <!-- EN: point -->
+  <WoWM_Alliance_Claymore.tools.point.label>point</WoWM_Alliance_Claymore.tools.point.label>
+  <!-- EN: edge -->
+  <WoWM_Alliance_Claymore.tools.edge.label>edge</WoWM_Alliance_Claymore.tools.edge.label>
+  <!-- EN: stormwind greatsword -->
+  <WoWM_Alliance_Greatsword.label>stormwind greatsword</WoWM_Alliance_Greatsword.label>
+  <!-- EN: Stormwind greatsword -->
+  <WoWM_Alliance_Greatsword.description>Stormwind greatsword</WoWM_Alliance_Greatsword.description>
+  <!-- EN: point -->
+  <WoWM_Alliance_Greatsword.tools.point.label>point</WoWM_Alliance_Greatsword.tools.point.label>
+  <!-- EN: edge -->
+  <WoWM_Alliance_Greatsword.tools.edge.label>edge</WoWM_Alliance_Greatsword.tools.edge.label>
+  <!-- EN: stormwind halberd -->
+  <WoWM_Alliance_Halberd.label>stormwind halberd</WoWM_Alliance_Halberd.label>
+  <!-- EN: Stormwind halberd -->
+  <WoWM_Alliance_Halberd.description>Stormwind halberd</WoWM_Alliance_Halberd.description>
+  <!-- EN: point -->
+  <WoWM_Alliance_Halberd.tools.point.label>point</WoWM_Alliance_Halberd.tools.point.label>
+  <!-- EN: blade -->
+  <WoWM_Alliance_Halberd.tools.blade.label>blade</WoWM_Alliance_Halberd.tools.blade.label>
+  <!-- EN: stormwind longsword -->
+  <WoWM_Alliance_LongSword.label>stormwind longsword</WoWM_Alliance_LongSword.label>
+  <!-- EN: Stormwind longsword -->
+  <WoWM_Alliance_LongSword.description>Stormwind longsword</WoWM_Alliance_LongSword.description>
+  <!-- EN: point -->
+  <WoWM_Alliance_LongSword.tools.point.label>point</WoWM_Alliance_LongSword.tools.point.label>
+  <!-- EN: edge -->
+  <WoWM_Alliance_LongSword.tools.edge.label>edge</WoWM_Alliance_LongSword.tools.edge.label>
+  <!-- EN: stormwind polearm -->
+  <WoWM_Alliance_Polearm.label>stormwind polearm</WoWM_Alliance_Polearm.label>
+  <!-- EN: Stormwind polearm -->
+  <WoWM_Alliance_Polearm.description>Stormwind polearm</WoWM_Alliance_Polearm.description>
+  <!-- EN: point -->
+  <WoWM_Alliance_Polearm.tools.point.label>point</WoWM_Alliance_Polearm.tools.point.label>
+</LanguageData>

@@ -1,0 +1,124 @@
+ManifestFileVersion: 0
+CRC: 1119721469
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e222893286ec933ef33e15ec8a207db1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e222893286ec933ef33e15ec8a207db1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Draenei/Melee/AnchoriteMace.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Draenei/Melee/DraenicRibsmasher.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/BloodElf/Melee/Sin'dorei
+  Warblade.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/NightElf/Fist
+  of the Deity.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Alliance/Melee/Grand
+  Marshal Claymore.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Alliance/Melee/7thLegionlongsword.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/NightElf/Ranged/SentinelRecurveBow.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Forsaken/Melee/Deathguard
+  Greatsword.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Alliance/Melee/Truesilver
+  Champion.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Horde/Melee/Honorbound
+  Decapitator.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Forsaken/Ranged/Dark
+  Ranger Bow.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/HighElf/Melee/Void
+  Sabre.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/NightElf/Melee/SentinelMoonglaive.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/HighElf/Melee/Coldrage
+  Dagger.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Forsaken/Melee/BlightspreaderCrescent.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Alliance/Melee/Stormwind
+  Vanguard Polearm.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Forsaken/Melee/Meat
+  Cleaver.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Alliance/Ranged/7thLegionLongbow.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Horde/Melee/Honorbound
+  Pigsticker.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/HighElf/Ranged/Ironfeather
+  Longbow.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/NightElf/Skettis
+  Bow.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Forsaken/Deadshot's
+  Handcannon.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/BloodElf/Melee/BEGlaive.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/HighElf/Melee/Greatsword
+  of Frozen Hells.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Forsaken/Melee/Deathguard's
+  Blade.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/HighElf/Melee/Talon
+  Guard Glaive.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Horde/Honorbound
+  Dagger.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Horde/Melee/Honorbound
+  Decapitatorold.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/BloodElf/Ranged/Skyfire
+  Hawk Bow.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Alliance/Melee/Truesilver
+  Champion_m.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Draenei/Melee/ClaymoreoftheProphet.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Horde/High warlord's
+  Greatsword.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Alliance/Melee/7thLegionClaymore.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Forsaken/Melee/Meat_Cleaver2.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Draenei/Melee/WarmongeringGladiatorGavel.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/BloodElf/Melee/SilvermoonWarMace.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Forsaken/Melee/Plaguebringer's
+  Dirk2.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/HighElf/Melee/Ardent
+  Warhammer.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Horde/Melee/Honorbound
+  Decapitator_m.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/BloodElf/Melee/BloodTemperedRanseur.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Forsaken/Melee/Plaguebringer's
+  Dirk1.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Alliance/Melee/7thLegionHalberd.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Alliance/Melee/Grand
+  Marshal's Battle Hammer.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/HighElf/Ranged/Furious
+  Gladiator Recurve.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Forsaken/Melee/Plaguebringer's
+  Dirk.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/BloodElf/Melee/GreatSwordoftheSindorei.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Horde/Honorbound
+  Longbow.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/BloodElf/Ranged/Thalassian
+  Bow.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Draenei/Ranged/Aarko
+  Antique Crossbow.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Forsaken/Melee/PlagueBringer's
+  Halberd.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/NightElf/Sentinel's
+  Crescent Dagger.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Horde/Melee/Honorbound
+  BoneBreaker.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/NightElf/Melee/SentinelTomahawk.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Horde/Melee/Honorbound
+  War Cleaver.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/NightElf/Sentinel's
+  GreatSword.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Horde/Melee/Honorbound
+  Gladius.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Alliance/Ranged/7th
+  Legion Handcannon.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/NightElf/Wrymstalker.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Forsaken/Deathguard's
+  Gavel.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/NightElf/Melee/Mooncleaver.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Draenei/Melee/HammeroftheNaaru.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/NightElf/Melee/SentinelHalberd.png
+- Assets/Data/Mlie.RyRimcraftWeaponry/Textures/Things/Item/Weapons/Draenei/Ranged/Warmongering
+  Gladiator Longbow.png
+Dependencies: []

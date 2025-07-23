@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: draenic claymore -->
+  <WoWM_Draenei_Claymore.label>draenic claymore</WoWM_Draenei_Claymore.label>
+  <!-- EN: Draenic claymore -->
+  <WoWM_Draenei_Claymore.description>Draenic claymore</WoWM_Draenei_Claymore.description>
+  <!-- EN: edge -->
+  <WoWM_Draenei_Claymore.tools.edge.label>edge</WoWM_Draenei_Claymore.tools.edge.label>
+  <!-- EN: draenic gavel -->
+  <WoWM_Draenei_Gavel.label>draenic gavel</WoWM_Draenei_Gavel.label>
+  <!-- EN: Draenic Gavel -->
+  <WoWM_Draenei_Gavel.description>Draenic Gavel</WoWM_Draenei_Gavel.description>
+  <!-- EN: edge -->
+  <WoWM_Draenei_Gavel.tools.edge.label>edge</WoWM_Draenei_Gavel.tools.edge.label>
+  <!-- EN: draenic greathammer -->
+  <WoWM_Draenei_GreatHammer.label>draenic greathammer</WoWM_Draenei_GreatHammer.label>
+  <!-- EN: Draenic greathammer -->
+  <WoWM_Draenei_GreatHammer.description>Draenic greathammer</WoWM_Draenei_GreatHammer.description>
+  <!-- EN: edge -->
+  <WoWM_Draenei_GreatHammer.tools.edge.label>edge</WoWM_Draenei_GreatHammer.tools.edge.label>
+  <!-- EN: draenic hammer -->
+  <WoWM_Draenei_Hammer.label>draenic hammer</WoWM_Draenei_Hammer.label>
+  <!-- EN: Draenic hammer -->
+  <WoWM_Draenei_Hammer.description>Draenic hammer</WoWM_Draenei_Hammer.description>
+  <!-- EN: edge -->
+  <WoWM_Draenei_Hammer.tools.edge.label>edge</WoWM_Draenei_Hammer.tools.edge.label>
+  <!-- EN: draenic mace -->
+  <WoWM_Draenei_Mace.label>draenic mace</WoWM_Draenei_Mace.label>
+  <!-- EN: Draenic Mace -->
+  <WoWM_Draenei_Mace.description>Draenic Mace</WoWM_Draenei_Mace.description>
+  <!-- EN: edge -->
+  <WoWM_Draenei_Mace.tools.edge.label>edge</WoWM_Draenei_Mace.tools.edge.label>
+</LanguageData>

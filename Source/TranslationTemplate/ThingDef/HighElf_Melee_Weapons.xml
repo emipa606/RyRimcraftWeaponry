@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: silver covenant dagger -->
+  <WoWM_HighElf_Dagger.label>silver covenant dagger</WoWM_HighElf_Dagger.label>
+  <!-- EN: Silver covenant dagger -->
+  <WoWM_HighElf_Dagger.description>Silver covenant dagger</WoWM_HighElf_Dagger.description>
+  <!-- EN: blade -->
+  <WoWM_HighElf_Dagger.tools.blade.label>blade</WoWM_HighElf_Dagger.tools.blade.label>
+  <!-- EN: point -->
+  <WoWM_HighElf_Dagger.tools.point.label>point</WoWM_HighElf_Dagger.tools.point.label>
+  <!-- EN: silver covenant glaive -->
+  <WoWM_HighElf_Glaive.label>silver covenant glaive</WoWM_HighElf_Glaive.label>
+  <!-- EN: Silver covenant glaive -->
+  <WoWM_HighElf_Glaive.description>Silver covenant glaive</WoWM_HighElf_Glaive.description>
+  <!-- EN: point -->
+  <WoWM_HighElf_Glaive.tools.point.label>point</WoWM_HighElf_Glaive.tools.point.label>
+  <!-- EN: silver covenant greatsword -->
+  <WoWM_HighElf_Greatsword.label>silver covenant greatsword</WoWM_HighElf_Greatsword.label>
+  <!-- EN: Silver covenant greatsword -->
+  <WoWM_HighElf_Greatsword.description>Silver covenant greatsword</WoWM_HighElf_Greatsword.description>
+  <!-- EN: point -->
+  <WoWM_HighElf_Greatsword.tools.point.label>point</WoWM_HighElf_Greatsword.tools.point.label>
+  <!-- EN: edge -->
+  <WoWM_HighElf_Greatsword.tools.edge.label>edge</WoWM_HighElf_Greatsword.tools.edge.label>
+  <!-- EN: silver covenant sabre -->
+  <WoWM_HighElf_Sabre.label>silver covenant sabre</WoWM_HighElf_Sabre.label>
+  <!-- EN: Silver covenant sabre -->
+  <WoWM_HighElf_Sabre.description>Silver covenant sabre</WoWM_HighElf_Sabre.description>
+  <!-- EN: point -->
+  <WoWM_HighElf_Sabre.tools.point.label>point</WoWM_HighElf_Sabre.tools.point.label>
+  <!-- EN: edge -->
+  <WoWM_HighElf_Sabre.tools.edge.label>edge</WoWM_HighElf_Sabre.tools.edge.label>
+  <!-- EN: silver covenant warhammer -->
+  <WoWM_HighElf_Warhammer.label>silver covenant warhammer</WoWM_HighElf_Warhammer.label>
+  <!-- EN: Silver covenant warhammer -->
+  <WoWM_HighElf_Warhammer.description>Silver covenant warhammer</WoWM_HighElf_Warhammer.description>
+  <!-- EN: edge -->
+  <WoWM_HighElf_Warhammer.tools.edge.label>edge</WoWM_HighElf_Warhammer.tools.edge.label>
+</LanguageData>

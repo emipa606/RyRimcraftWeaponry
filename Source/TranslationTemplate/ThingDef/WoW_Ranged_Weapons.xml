@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: recurve bow arrow -->
+  <WoW_Arrow_TierOne.label>recurve bow arrow</WoW_Arrow_TierOne.label>
+  <!-- EN: recurve bow arrow -->
+  <WoW_Arrow_TierTwo.label>recurve bow arrow</WoW_Arrow_TierTwo.label>
+  <!-- EN: stormwind longbow -->
+  <WoWR_Alliance_Longbow.label>stormwind longbow</WoWR_Alliance_Longbow.label>
+  <!-- EN: Stormwind longbow -->
+  <WoWR_Alliance_Longbow.description>Stormwind longbow</WoWR_Alliance_Longbow.description>
+  <!-- EN: limb -->
+  <WoWR_Alliance_Longbow.tools.limb.label>limb</WoWR_Alliance_Longbow.tools.limb.label>
+  <!-- EN: stormwind longbow -->
+  <WoWR_Alliance_Longbow.verbs.Verb_Shoot.label>stormwind longbow</WoWR_Alliance_Longbow.verbs.Verb_Shoot.label>
+  <!-- EN: Sin'dorei bow -->
+  <WoWR_BloodElf_Bow.label>Sin'dorei bow</WoWR_BloodElf_Bow.label>
+  <!-- EN: Sin'dorei bow -->
+  <WoWR_BloodElf_Bow.description>Sin'dorei bow</WoWR_BloodElf_Bow.description>
+  <!-- EN: limb -->
+  <WoWR_BloodElf_Bow.tools.limb.label>limb</WoWR_BloodElf_Bow.tools.limb.label>
+  <!-- EN: Sin'dorei bow -->
+  <WoWR_BloodElf_Bow.verbs.Verb_Shoot.label>Sin'dorei bow</WoWR_BloodElf_Bow.verbs.Verb_Shoot.label>
+  <!-- EN: sin'dorei hawkbow -->
+  <WoWR_BloodElf_HawkBow.label>sin'dorei hawkbow</WoWR_BloodElf_HawkBow.label>
+  <!-- EN: Sin'dorei hawkbow -->
+  <WoWR_BloodElf_HawkBow.description>Sin'dorei hawkbow</WoWR_BloodElf_HawkBow.description>
+  <!-- EN: limb -->
+  <WoWR_BloodElf_HawkBow.tools.limb.label>limb</WoWR_BloodElf_HawkBow.tools.limb.label>
+  <!-- EN: sin'dorei hawkbow -->
+  <WoWR_BloodElf_HawkBow.verbs.Verb_Shoot.label>sin'dorei hawkbow</WoWR_BloodElf_HawkBow.verbs.Verb_Shoot.label>
+  <!-- EN: draenic crossbow -->
+  <WoWR_Draenei__Crossbow.label>draenic crossbow</WoWR_Draenei__Crossbow.label>
+  <!-- EN: Draenic crossbow -->
+  <WoWR_Draenei__Crossbow.description>Draenic crossbow</WoWR_Draenei__Crossbow.description>
+  <!-- EN: limb -->
+  <WoWR_Draenei__Crossbow.tools.limb.label>limb</WoWR_Draenei__Crossbow.tools.limb.label>
+  <!-- EN: draenic crossbow -->
+  <WoWR_Draenei__Crossbow.verbs.Verb_Shoot.label>draenic crossbow</WoWR_Draenei__Crossbow.verbs.Verb_Shoot.label>
+  <!-- EN: draenic longbow -->
+  <WoWR_Draenei_Longbow.label>draenic longbow</WoWR_Draenei_Longbow.label>
+  <!-- EN: Draenei longbow -->
+  <WoWR_Draenei_Longbow.description>Draenei longbow</WoWR_Draenei_Longbow.description>
+  <!-- EN: limb -->
+  <WoWR_Draenei_Longbow.tools.limb.label>limb</WoWR_Draenei_Longbow.tools.limb.label>
+  <!-- EN: draenic longbow -->
+  <WoWR_Draenei_Longbow.verbs.Verb_Shoot.label>draenic longbow</WoWR_Draenei_Longbow.verbs.Verb_Shoot.label>
+  <!-- EN: forsaken darkbow -->
+  <WoWR_Forsaken_DarkBow.label>forsaken darkbow</WoWR_Forsaken_DarkBow.label>
+  <!-- EN: Forsaken darkbow. Often employed by the fallen elf rangers of the Forsaken. -->
+  <WoWR_Forsaken_DarkBow.description>Forsaken darkbow. Often employed by the fallen elf rangers of the Forsaken.</WoWR_Forsaken_DarkBow.description>
+  <!-- EN: limb -->
+  <WoWR_Forsaken_DarkBow.tools.limb.label>limb</WoWR_Forsaken_DarkBow.tools.limb.label>
+  <!-- EN: forsaken darkbow -->
+  <WoWR_Forsaken_DarkBow.verbs.Verb_Shoot.label>forsaken darkbow</WoWR_Forsaken_DarkBow.verbs.Verb_Shoot.label>
+  <!-- EN: silver covenant longbow -->
+  <WoWR_HighElf_Longbow.label>silver covenant longbow</WoWR_HighElf_Longbow.label>
+  <!-- EN: Silver covenant longbow -->
+  <WoWR_HighElf_Longbow.description>Silver covenant longbow</WoWR_HighElf_Longbow.description>
+  <!-- EN: limb -->
+  <WoWR_HighElf_Longbow.tools.limb.label>limb</WoWR_HighElf_Longbow.tools.limb.label>
+  <!-- EN: silver covenant longbow -->
+  <WoWR_HighElf_Longbow.verbs.Verb_Shoot.label>silver covenant longbow</WoWR_HighElf_Longbow.verbs.Verb_Shoot.label>
+  <!-- EN: silver covenant recurve bow -->
+  <WoWR_HighElf_RecurveBow.label>silver covenant recurve bow</WoWR_HighElf_RecurveBow.label>
+  <!-- EN: Silver covenant recurve bow -->
+  <WoWR_HighElf_RecurveBow.description>Silver covenant recurve bow</WoWR_HighElf_RecurveBow.description>
+  <!-- EN: limb -->
+  <WoWR_HighElf_RecurveBow.tools.limb.label>limb</WoWR_HighElf_RecurveBow.tools.limb.label>
+  <!-- EN: silver covenant recurve bow -->
+  <WoWR_HighElf_RecurveBow.verbs.Verb_Shoot.label>silver covenant recurve bow</WoWR_HighElf_RecurveBow.verbs.Verb_Shoot.label>
+  <!-- EN: kaldorei recurve bow -->
+  <WoWR_NightElf_RecurveBow.label>kaldorei recurve bow</WoWR_NightElf_RecurveBow.label>
+  <!-- EN: Kaldorei recurve bow -->
+  <WoWR_NightElf_RecurveBow.description>Kaldorei recurve bow</WoWR_NightElf_RecurveBow.description>
+  <!-- EN: limb -->
+  <WoWR_NightElf_RecurveBow.tools.limb.label>limb</WoWR_NightElf_RecurveBow.tools.limb.label>
+  <!-- EN: kaldorei recurve bow -->
+  <WoWR_NightElf_RecurveBow.verbs.Verb_Shoot.label>kaldorei recurve bow</WoWR_NightElf_RecurveBow.verbs.Verb_Shoot.label>
+</LanguageData>

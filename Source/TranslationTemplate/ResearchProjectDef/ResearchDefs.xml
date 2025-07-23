@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Alliance Basic Weaponry -->
+  <WoW_Alliance_Weaponry_T1.label>Alliance Basic Weaponry</WoW_Alliance_Weaponry_T1.label>
+  <!-- EN: Tier 1 weapons for the Alliance Faction. Includes the Stormwind bastard sword. -->
+  <WoW_Alliance_Weaponry_T1.description>Tier 1 weapons for the Alliance Faction. Includes the Stormwind bastard sword.</WoW_Alliance_Weaponry_T1.description>
+  <!-- EN: Alliance Good Weaponry -->
+  <WoW_Alliance_Weaponry_T2.label>Alliance Good Weaponry</WoW_Alliance_Weaponry_T2.label>
+  <!-- EN: Tier 2 weapons for the Alliance Faction. Includes the Stormwind halberd, longsword, claymore, and polearm. -->
+  <WoW_Alliance_Weaponry_T2.description>Tier 2 weapons for the Alliance Faction. Includes the Stormwind halberd, longsword, claymore, and polearm.</WoW_Alliance_Weaponry_T2.description>
+  <!-- EN: BloodElf Basic Weaponry -->
+  <WoW_BloodElf_Weaponry_T1.label>BloodElf Basic Weaponry</WoW_BloodElf_Weaponry_T1.label>
+  <!-- EN: Tier 1 weapons for the BloodElf Faction. Includes the Sin'dorei warblade and warmace -->
+  <WoW_BloodElf_Weaponry_T1.description>Tier 1 weapons for the BloodElf Faction. Includes the Sin'dorei warblade and warmace</WoW_BloodElf_Weaponry_T1.description>
+  <!-- EN: BloodElf Good Weaponry -->
+  <WoW_BloodElf_Weaponry_T2.label>BloodElf Good Weaponry</WoW_BloodElf_Weaponry_T2.label>
+  <!-- EN: Tier 2 weapons for the BloodElf Faction. Includes the Sin'dorei ranseur and glaive. -->
+  <WoW_BloodElf_Weaponry_T2.description>Tier 2 weapons for the BloodElf Faction. Includes the Sin'dorei ranseur and glaive.</WoW_BloodElf_Weaponry_T2.description>
+  <!-- EN: Draenei Basic Weaponry -->
+  <WoW_Draenei_Weaponry_T1.label>Draenei Basic Weaponry</WoW_Draenei_Weaponry_T1.label>
+  <!-- EN: Tier 1 weapons for the Draenei Faction. Includes the Draenic gavel. -->
+  <WoW_Draenei_Weaponry_T1.description>Tier 1 weapons for the Draenei Faction. Includes the Draenic gavel.</WoW_Draenei_Weaponry_T1.description>
+  <!-- EN: Draenei Good Weaponry -->
+  <WoW_Draenei_Weaponry_T2.label>Draenei Good Weaponry</WoW_Draenei_Weaponry_T2.label>
+  <!-- EN: Tier 2 weapons for the Draenei Faction. Includes the Draenic mace and hammer. -->
+  <WoW_Draenei_Weaponry_T2.description>Tier 2 weapons for the Draenei Faction. Includes the Draenic mace and hammer.</WoW_Draenei_Weaponry_T2.description>
+  <!-- EN: Forsaken Basic Weaponry -->
+  <WoW_Forsaken_Weaponry_T1.label>Forsaken Basic Weaponry</WoW_Forsaken_Weaponry_T1.label>
+  <!-- EN: Tier 1 weapons for the Forsaken Faction. Includes the Forsaken cleaver and dirk. -->
+  <WoW_Forsaken_Weaponry_T1.description>Tier 1 weapons for the Forsaken Faction. Includes the Forsaken cleaver and dirk.</WoW_Forsaken_Weaponry_T1.description>
+  <!-- EN: Forsaken Good Weaponry -->
+  <WoW_Forsaken_Weaponry_T2.label>Forsaken Good Weaponry</WoW_Forsaken_Weaponry_T2.label>
+  <!-- EN: Tier 2 weapons for the Forsaken Faction. Includes the Forsaken blade, crescent blade, and halberd. -->
+  <WoW_Forsaken_Weaponry_T2.description>Tier 2 weapons for the Forsaken Faction. Includes the Forsaken blade, crescent blade, and halberd.</WoW_Forsaken_Weaponry_T2.description>
+  <!-- EN: HighElf Basic Weaponry -->
+  <WoW_HighElf_Weaponry_T1.label>HighElf Basic Weaponry</WoW_HighElf_Weaponry_T1.label>
+  <!-- EN: Tier 1 weapons for the HighElf Faction. Includes the Silver Covenant dagger. -->
+  <WoW_HighElf_Weaponry_T1.description>Tier 1 weapons for the HighElf Faction. Includes the Silver Covenant dagger.</WoW_HighElf_Weaponry_T1.description>
+  <!-- EN: HighElf Good Weaponry -->
+  <WoW_HighElf_Weaponry_T2.label>HighElf Good Weaponry</WoW_HighElf_Weaponry_T2.label>
+  <!-- EN: Tier 2 weapons for the HighElf Faction. Includes Includes the Silver Covenant warhammer, glaive, and sabre. -->
+  <WoW_HighElf_Weaponry_T2.description>Tier 2 weapons for the HighElf Faction. Includes Includes the Silver Covenant warhammer, glaive, and sabre.</WoW_HighElf_Weaponry_T2.description>
+  <!-- EN: Horde Basic Weaponry -->
+  <WoW_Horde_Weaponry_T1.label>Horde Basic Weaponry</WoW_Horde_Weaponry_T1.label>
+  <!-- EN: Tier 1 weapons for the Horde Faction. Includes the Horde warcleaver and gladius. -->
+  <WoW_Horde_Weaponry_T1.description>Tier 1 weapons for the Horde Faction. Includes the Horde warcleaver and gladius.</WoW_Horde_Weaponry_T1.description>
+  <!-- EN: Horde Good Weaponry -->
+  <WoW_Horde_Weaponry_T2.label>Horde Good Weaponry</WoW_Horde_Weaponry_T2.label>
+  <!-- EN: Tier 2 weapons for the Horde Faction. Includes the Horde maul and greatspear. -->
+  <WoW_Horde_Weaponry_T2.description>Tier 2 weapons for the Horde Faction. Includes the Horde maul and greatspear.</WoW_Horde_Weaponry_T2.description>
+  <!-- EN: NightElf Basic Weaponry -->
+  <WoW_NightElf_Weaponry_T1.label>NightElf Basic Weaponry</WoW_NightElf_Weaponry_T1.label>
+  <!-- EN: Tier 1 weapons for the NightElf Faction. Includes the Kaldorei tomahawk and moonglaive. -->
+  <WoW_NightElf_Weaponry_T1.description>Tier 1 weapons for the NightElf Faction. Includes the Kaldorei tomahawk and moonglaive.</WoW_NightElf_Weaponry_T1.description>
+  <!-- EN: NightElf Good Weaponry -->
+  <WoW_NightElf_Weaponry_T2.label>NightElf Good Weaponry</WoW_NightElf_Weaponry_T2.label>
+  <!-- EN: Tier 2 weapons for the NightElf Faction. Includes the Kaldorei mooncleaver and halberd. -->
+  <WoW_NightElf_Weaponry_T2.description>Tier 2 weapons for the NightElf Faction. Includes the Kaldorei mooncleaver and halberd.</WoW_NightElf_Weaponry_T2.description>
+</LanguageData>
